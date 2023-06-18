@@ -145,5 +145,8 @@
       }
     }
   },
-  "defaultProject": "travlr-admin"
+  "defaultProject": "travlr-admin",
+  "cli": {
+    "analytics": "6c149c3f-17da-4e7b-abed-995ae0395cd2"
+  }
 }
